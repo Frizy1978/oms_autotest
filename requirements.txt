@@ -1,0 +1,6 @@
+requests>=2.26.0
+pytest>=6.2.5
+allure-pytest>=2.9.45
+pytest-rerunfailures>=10.2
+pytest-testconfig=>0.2.0
+pytest-logger=>0.5.1
